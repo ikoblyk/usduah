@@ -1,3 +1,2 @@
 for i in range(10):
-    print("ivan rules!")
-    
+    print("liubomyr rules!")
